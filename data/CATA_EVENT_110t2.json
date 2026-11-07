@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Red Aspect Essence",
+  "card": {
+    "id": "CATA_EVENT_110t2",
+    "dbfId": 123339,
+    "name": "붉은 위상 정수",
+    "text": "[x]적에게 피해를 $8 줍니다.\n붙어 있는 모든 위상\n정수를 시전합니다.",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1941,
+    "set": "EVENT",
+    "rarity": null,
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 6,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS37-106_S 1.tif:6eab020c6dc907a45ba20ffd1e99ad1e",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 4761,
+        "name": "게임 태그 4761",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]적에게 피해를 $8 줍니다.\n붙어 있는 모든 위상\n정수를 시전합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1941,
+    "slug": "event",
+    "name": "이벤트",
+    "type": "expansion",
+    "englishName": "Event"
+  },
+  "setOrder": 9,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

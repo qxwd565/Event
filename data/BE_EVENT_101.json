@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Arrival of the Titans",
+  "card": {
+    "id": "BE_EVENT_101",
+    "dbfId": 132671,
+    "name": "티탄의 도래",
+    "text": "주문을 둘 뽑습니다. 마나 수정을 6개 회복합니다. 이번 턴 동안 주문만 낼 수 있습니다.",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "classes": [],
+    "nativeSetId": 1941,
+    "set": "EVENT",
+    "rarity": "EPIC",
+    "race": "",
+    "races": [],
+    "spellSchool": "ARCANE",
+    "cost": 6,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS39-134_S.tif:14436f676395495bb729e932fe2585ed",
+    "flavor": "\"이봐, 이거 좀 봐. 얘네들 지금 5연패 중이야!\"",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "주문을 둘 뽑습니다. 마나 수정을 6개 회복합니다. 이번 턴 동안 주문만 낼 수 있습니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1941,
+    "slug": "event",
+    "name": "이벤트",
+    "type": "expansion",
+    "englishName": "Event"
+  },
+  "setOrder": 9,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

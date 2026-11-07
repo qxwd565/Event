@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Runi, Temporal Guardian",
+  "card": {
+    "id": "TIME_EVENT_998",
+    "dbfId": 121676,
+    "name": "시간의 수호자 루니",
+    "text": "<b>전투의 함성:</b> 내 손에 있는 모든 하수인을 2턴 뒤의 미래로 보냅니다. 그 하수인들이 +5/+5를 가지고 돌아옵니다.",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "classes": [],
+    "nativeSetId": 1941,
+    "set": "EVENT",
+    "rarity": "LEGENDARY",
+    "race": "드레나이",
+    "races": [],
+    "spellSchool": "",
+    "cost": 5,
+    "attack": 5,
+    "health": 5,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS36-130_M.tif:101153ddf5ea40338a2d9d26b970bca6",
+    "flavor": "루니는 자신의 시간대에서 마지막으로 살아남은 성기사로서, 시간의 수호자라는 책임을 도맡았습니다. 지금의 루니는 미다의 축복을 받아, 운명의 씨실과 날실을 인도하여 적시적소에 엮어 넣는 힘을 지니게 되었습니다.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성:</b> 내 손에 있는 모든 하수인을 2턴 뒤의 미래로 보냅니다. 그 하수인들이 +5/+5를 가지고 돌아옵니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1941,
+    "slug": "event",
+    "name": "이벤트",
+    "type": "expansion",
+    "englishName": "Event"
+  },
+  "setOrder": 9,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Destructive Phoenix",
+  "card": {
+    "id": "CATA_EVENT_001",
+    "dbfId": 126700,
+    "name": "파괴의 불사조",
+    "text": "<b>전투의 함성:</b> 내 손에 있는 카드를 선택하여 불사릅니다. 3턴 후에, 그 카드를 버리고 이 하수인을 복사하여 소환합니다.",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "classes": [],
+    "nativeSetId": 1941,
+    "set": "EVENT",
+    "rarity": "EPIC",
+    "race": "정령",
+    "races": [
+      "야수"
+    ],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 5,
+    "health": 5,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS37-195_M.tif:54420cd8aeb645688c5b845b62c4483a",
+    "flavor": "재로부터 9000번 다시 살아났다면 기분이 어떨 것 같으세요?",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1508,
+        "name": "게임 태그 1508",
+        "value": 1
+      },
+      {
+        "id": 2542,
+        "name": "게임 태그 2542",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성:</b> 내 손에 있는 카드를 선택하여 불사릅니다. 3턴 후에, 그 카드를 버리고 이 하수인을 복사하여 소환합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1941,
+    "slug": "event",
+    "name": "이벤트",
+    "type": "expansion",
+    "englishName": "Event"
+  },
+  "setOrder": 9,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

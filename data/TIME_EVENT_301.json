@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Disciple of Demise",
+  "card": {
+    "id": "TIME_EVENT_301",
+    "dbfId": 126697,
+    "name": "종말의 사도",
+    "text": "<b>전투의 함성</b>: 다른 하수인 하나를 무작위로 처치합니다. 내 손에 있는 용족의 수만큼 반복합니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1941,
+    "set": "EVENT",
+    "rarity": "EPIC",
+    "race": "용족",
+    "races": [],
+    "spellSchool": "",
+    "cost": 8,
+    "attack": 8,
+    "health": 8,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS37-193_M.tif:033212f614b04018bd47845a30189eb5",
+    "flavor": "용기의 용. 지혜의 용. 힘의 용. 종말을 이겨 내려면 셋을 모두 가지고 있어야 합니다.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 24
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성</b>: 다른 하수인 하나를 무작위로 처치합니다. 내 손에 있는 용족의 수만큼 반복합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1941,
+    "slug": "event",
+    "name": "이벤트",
+    "type": "expansion",
+    "englishName": "Event"
+  },
+  "setOrder": 9,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}
