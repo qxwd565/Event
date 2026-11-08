@@ -17,6 +17,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "SHADOW",
       "set": "EVENT",
       "nativeTags": [
@@ -50,7 +52,8 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "BE_EVENT_101",
@@ -67,6 +70,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "ARCANE",
       "set": "EVENT",
       "nativeTags": [
@@ -100,7 +105,8 @@
           "name": "주문 속성",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "BE_EVENT_102",
@@ -117,6 +123,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "SHADOW",
       "set": "EVENT",
       "nativeTags": [
@@ -155,7 +163,8 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "CATA_EVENT_000",
@@ -172,6 +181,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "정령",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -232,7 +244,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "CATA_EVENT_001",
@@ -252,7 +265,8 @@
       "races": [
         "야수"
       ],
-      "race": "야수",
+      "race": "정령",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -313,7 +327,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "CATA_EVENT_002",
@@ -324,12 +339,15 @@
       "rarity": "EPIC",
       "collectible": true,
       "cost": 3,
-      "text": "<b>전투의 함성:</b> 내가\n이번 턴에 화염 주문을\n냈으면, 하수인을\n처치합니다.",
+      "text": "[x]<b>전투의 함성:</b> 내가\n이번 턴에 화염 주문을\n냈으면, 하수인을\n처치합니다.",
       "attack": 4,
       "health": 3,
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "정령",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -385,7 +403,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "CATA_EVENT_110",
@@ -402,6 +421,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -457,7 +479,8 @@
       ],
       "mechanics": [
         "START_OF_GAME"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "CATA_EVENT_110t2",
@@ -468,12 +491,15 @@
       "rarity": "FREE",
       "collectible": false,
       "cost": 6,
-      "text": "적에게 피해를 $8 줍니다.\n붙어 있는 모든 위상\n정수를 시전합니다.",
+      "text": "[x]적에게 피해를 $8 줍니다.\n붙어 있는 모든 위상\n정수를 시전합니다.",
       "attack": 0,
       "health": 0,
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -501,7 +527,8 @@
           "name": "게임 태그 4761",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "CATA_EVENT_110t3",
@@ -512,12 +539,15 @@
       "rarity": "FREE",
       "collectible": false,
       "cost": 6,
-      "text": "주문을 3개 뽑습니다.\n붙어 있는 모든 위상\n정수를 시전합니다.",
+      "text": "[x]주문을 3개 뽑습니다.\n붙어 있는 모든 위상\n정수를 시전합니다.",
       "attack": 0,
       "health": 0,
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -545,7 +575,8 @@
           "name": "게임 태그 4761",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "CATA_EVENT_110t4",
@@ -562,6 +593,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -589,7 +623,8 @@
           "name": "게임 태그 4761",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "CATA_EVENT_110t5",
@@ -600,12 +635,15 @@
       "rarity": "FREE",
       "collectible": false,
       "cost": 6,
-      "text": "방어도를 12 얻습니다.\n붙어 있는 모든 위상\n정수를 시전합니다.",
+      "text": "[x]방어도를 12 얻습니다.\n붙어 있는 모든 위상\n정수를 시전합니다.",
       "attack": 0,
       "health": 0,
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -633,7 +671,8 @@
           "name": "게임 태그 4761",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "CATA_EVENT_110t6",
@@ -644,12 +683,15 @@
       "rarity": "FREE",
       "collectible": false,
       "cost": 6,
-      "text": "8/8 용족을 소환합니다.\n붙어 있는 모든 위상\n정수를 시전합니다.",
+      "text": "[x]8/8 용족을 소환합니다.\n붙어 있는 모든 위상\n정수를 시전합니다.",
       "attack": 0,
       "health": 0,
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -677,7 +719,8 @@
           "name": "게임 태그 4761",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "CATA_EVENT_110t6t",
@@ -694,6 +737,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "용족",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -726,7 +772,8 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "CATA_EVENT_110t7",
@@ -737,12 +784,15 @@
       "rarity": "FREE",
       "collectible": false,
       "cost": 6,
-      "text": "모든 적 하수인에게\n피해를 $4 줍니다.\n붙어 있는 모든 위상\n정수를 시전합니다.",
+      "text": "[x]모든 적 하수인에게\n피해를 $4 줍니다.\n붙어 있는 모든 위상\n정수를 시전합니다.",
       "attack": 0,
       "health": 0,
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -770,7 +820,8 @@
           "name": "게임 태그 4761",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "CATA_EVENT_400",
@@ -781,12 +832,15 @@
       "rarity": "EPIC",
       "collectible": true,
       "cost": 3,
-      "text": "<b>준비</b>, <b>전투의 함성:</b> 마나를 모두\n소모합니다. 소모한 만큼의\n비용을 가진 무작위\n하수인을 소환합니다.",
+      "text": "[x]<b>준비</b>, <b>전투의 함성:</b> 마나를 모두\n소모합니다. 소모한 만큼의\n비용을 가진 무작위\n하수인을 소환합니다.",
       "attack": 4,
       "health": 3,
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "언데드",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -847,7 +901,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "CATA_EVENT_401",
@@ -864,6 +919,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -919,7 +977,8 @@
       ],
       "mechanics": [
         "SPELLPOWER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "CATA_EVENT_402",
@@ -936,6 +995,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -976,7 +1038,8 @@
       ],
       "mechanics": [
         "COMBO"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "EDR_950",
@@ -993,6 +1056,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -1043,7 +1109,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAIL_EVENT_100",
@@ -1060,6 +1127,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "야수",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -1126,7 +1196,8 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAIL_EVENT_101",
@@ -1143,6 +1214,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "SHADOW",
       "set": "EVENT",
       "nativeTags": [
@@ -1186,7 +1259,8 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAIL_EVENT_102",
@@ -1203,6 +1277,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -1230,7 +1307,8 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "TIME_EVENT_300",
@@ -1247,6 +1325,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -1302,7 +1383,8 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "TIME_EVENT_301",
@@ -1319,6 +1401,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "용족",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -1374,7 +1459,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "TIME_EVENT_997",
@@ -1385,12 +1471,15 @@
       "rarity": "EPIC",
       "collectible": true,
       "cost": 3,
-      "text": "장소를 엽니다. 그 장소에\n\"<b>죽음의 메아리:</b>비용이 3인\n무작위 하수인을 소환함\"\n능력을 부여합니다.",
+      "text": "[x]장소를 엽니다. 그 장소에\n\"<b>죽음의 메아리:</b>비용이 3인\n무작위 하수인을 소환함\"\n능력을 부여합니다.",
       "attack": 0,
       "health": 0,
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -1426,7 +1515,8 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "TIME_EVENT_998",
@@ -1443,6 +1533,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "드레나이",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -1503,7 +1596,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "TIME_EVENT_999",
@@ -1520,6 +1614,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -1570,7 +1667,8 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "TIME_EVENT_999t",
@@ -1581,12 +1679,15 @@
       "rarity": "EPIC",
       "collectible": false,
       "cost": 1,
-      "text": "내 직업의 주문을\n<b>발견</b>합니다.",
+      "text": "[x]내 직업의 주문을\n<b>발견</b>합니다.",
       "attack": 0,
       "health": 0,
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -1622,7 +1723,8 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "TLC_EVENT_400",
@@ -1639,6 +1741,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -1681,7 +1786,8 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "TLC_EVENT_402",
@@ -1698,6 +1804,9 @@
       "durability": 6,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "EVENT",
       "nativeTags": [
         {
@@ -1768,7 +1877,8 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "classes": []
     }
   ]
 }
