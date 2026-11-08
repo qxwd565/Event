@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 내가\n이번 턴에 화염 주문을\n냈으면, 하수인을\n처치합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "root": true,
   "relatedIds": [],

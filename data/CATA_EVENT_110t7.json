@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "[x]모든 적 하수인에게\n피해를 $4 줍니다.\n붙어 있는 모든 위상\n정수를 시전합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "root": false,
   "relatedIds": [],

@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "하수인에게 피해를 $5 줍니다. 양옆으로 이어지며 하수인마다 피해가 1씩 감소합니다.",
-    "nativeTextBuilder": 43
+    "nativeTextBuilder": 43,
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "root": true,
   "relatedIds": [],

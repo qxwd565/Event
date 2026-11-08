@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성</b>: 다른 하수인 하나를 무작위로 처치합니다. 내 손에 있는 용족의 수만큼 반복합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "root": true,
   "relatedIds": [],

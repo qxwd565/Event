@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "<b>부가 퀘스트:</b> 야수 또는 언데드를 셋 내야 합니다. <b>보상:</b> 원하는 누더기야수를 직접 만듭니다. 그 누더기야수의 비용이 (3) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "root": true,
   "relatedIds": [],

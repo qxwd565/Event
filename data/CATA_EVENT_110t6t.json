@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "root": false,
   "relatedIds": [],

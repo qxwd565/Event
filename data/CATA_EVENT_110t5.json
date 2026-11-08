@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "[x]방어도를 12 얻습니다.\n붙어 있는 모든 위상\n정수를 시전합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "root": false,
   "relatedIds": [],

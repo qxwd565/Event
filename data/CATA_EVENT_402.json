@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "하수인을 처치하고 상대편에게 동전을 줍니다.\n<b>연계:</b> 나도 동전을 하나 얻습니다.",
-    "nativeTextBuilder": 1
+    "nativeTextBuilder": 1,
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "root": true,
   "relatedIds": [],

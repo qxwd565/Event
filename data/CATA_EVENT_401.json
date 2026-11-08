@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>준비</b>\n<b>주문 공격력 +1</b>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "root": true,
   "relatedIds": [],

@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "[x]장소를 엽니다. 그 장소에\n\"<b>죽음의 메아리:</b>비용이 3인\n무작위 하수인을 소환함\"\n능력을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "root": true,
   "relatedIds": [],

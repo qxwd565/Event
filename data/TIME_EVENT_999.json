@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>되돌리기</b> 무작위 직업의 주문을 <b>발견</b>합니다. <i>(<b>되돌리기</b> 후에는 내 직업의 주문을 발견합니다!)</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "root": true,
   "relatedIds": [

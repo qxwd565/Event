@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "내 영웅 능력이 '붕괴하는 별'이 됩니다.\n영웅 능력이 이미 붕괴하는 별일 경우 공격력이 1 증가합니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "root": true,
   "relatedIds": [],

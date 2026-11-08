@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "[x]내 직업의 주문을\n<b>발견</b>합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "root": false,
   "relatedIds": [],

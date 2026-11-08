@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 카드를 뽑습니다. 이번 턴에 그 카드의 비용이 (1) 감소합니다.\n<i>(난 뭔지 알지!)</i>@<b>전투의 함성:</b> 카드를 뽑습니다. 이번 턴에 그 카드의 비용이 (1) 감소합니다.\n<i>({5} 맞죠!)</i>",
-    "nativeTextBuilder": 33
+    "nativeTextBuilder": 33,
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "root": true,
   "relatedIds": [],

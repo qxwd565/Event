@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리:</b>& 모든 하수인을 처치합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "root": true,
   "relatedIds": [],

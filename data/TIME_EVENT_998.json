@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 손에 있는 모든 하수인을 2턴 뒤의 미래로 보냅니다. 그 하수인들이 +5/+5를 가지고 돌아옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "root": true,
   "relatedIds": [],

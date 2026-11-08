@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성</b>:& 과거의 무작위 <b>거수</b> 하수인을 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "root": true,
   "relatedIds": [],

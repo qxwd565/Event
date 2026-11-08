@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "[x]<b>준비</b>, <b>전투의 함성:</b> 마나를 모두\n소모합니다. 소모한 만큼의\n비용을 가진 무작위\n하수인을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "root": true,
   "relatedIds": [],

@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>개전</b>: 부서져서 정수 6개가 됩니다. 붙어 있는 정수들은 함께 시전됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "root": true,
   "relatedIds": [

@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 손에 있는 카드를 선택하여 불사릅니다. 3턴 후에, 그 카드를 버리고 이 하수인을 복사하여 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "root": true,
   "relatedIds": [],
