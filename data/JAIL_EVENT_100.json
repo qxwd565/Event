@@ -90,8 +90,8 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 하수인을 <b>발견</b>합니다. <i>수상</i>한 하수인을 선택하면 +1/+1을 얻습니다.",
     "nativeTextBuilder": 28,
-    "releasedAt": null,
-    "releaseStatus": "pending"
+    "releasedAt": "2026-08-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -1203,8 +1203,8 @@
         "BATTLECRY",
         "DISCOVER"
       ],
-      "releasedAt": null,
-      "releaseStatus": "pending"
+      "releasedAt": "2026-08-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_EVENT_101",
@@ -1267,8 +1267,8 @@
           "value": 6
         }
       ],
-      "releasedAt": null,
-      "releaseStatus": "pending"
+      "releasedAt": "2026-08-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_EVENT_102",
@@ -1315,8 +1315,8 @@
           "value": 1
         }
       ],
-      "releasedAt": null,
-      "releaseStatus": "pending"
+      "releasedAt": "2026-08-05",
+      "releaseStatus": "verified"
     },
     {
       "id": "TIME_EVENT_300",

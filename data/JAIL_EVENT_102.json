@@ -55,8 +55,8 @@
     ],
     "nativeRawText": "각 플레이어에게 비용이 2인 하수인을 둘 소환해 줍니다. 내 하수인들을 비용이 (1) 높은 하수인으로 변신시킵니다.",
     "nativeTextBuilder": 28,
-    "releasedAt": null,
-    "releaseStatus": "pending"
+    "releasedAt": "2026-08-05",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],
