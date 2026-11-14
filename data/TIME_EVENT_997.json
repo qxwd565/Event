@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Welcome Home!",
-  "card": {
+  "2025-12-04": {
     "id": "TIME_EVENT_997",
     "dbfId": 123416,
     "name": "집에 잘 오셨습니다!",
-    "text": "[x]장소를 엽니다. 그 장소에\n\"<b>죽음의 메아리:</b>비용이 3인\n무작위 하수인을 소환함\"\n능력을 부여합니다.",
+    "text": "[x]장소를 엽니다. 그 장소에<br></br>\"<b>죽음의 메아리:</b>비용이 3인<br></br>무작위 하수인을 소환함\"<br></br>능력을 부여합니다.",
     "type": "SPELL",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -60,27 +57,9 @@
     ],
     "nativeRawText": "[x]장소를 엽니다. 그 장소에\n\"<b>죽음의 메아리:</b>비용이 3인\n무작위 하수인을 소환함\"\n능력을 부여합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": null,
-    "releaseStatus": "pending"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1941,
-    "slug": "event",
-    "name": "이벤트",
-    "type": "expansion",
-    "englishName": "Event"
-  },
-  "setOrder": 9,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Welcome Home!",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/TIME_EVENT_997.png"
   }
 }

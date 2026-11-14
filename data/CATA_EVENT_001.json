@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Destructive Phoenix",
-  "card": {
+  "2026-04-15": {
     "id": "CATA_EVENT_001",
     "dbfId": 126700,
     "name": "파괴의 불사조",
@@ -87,27 +84,9 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 손에 있는 카드를 선택하여 불사릅니다. 3턴 후에, 그 카드를 버리고 이 하수인을 복사하여 소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": null,
-    "releaseStatus": "pending"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1941,
-    "slug": "event",
-    "name": "이벤트",
-    "type": "expansion",
-    "englishName": "Event"
-  },
-  "setOrder": 9,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Destructive Phoenix",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/CATA_EVENT_001.png"
   }
 }

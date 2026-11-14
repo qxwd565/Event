@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Desperate Bribe",
-  "card": {
+  "2026-08-05": {
     "id": "JAIL_EVENT_102",
     "dbfId": 130087,
     "name": "절박한 뇌물",
@@ -55,27 +52,9 @@
     ],
     "nativeRawText": "각 플레이어에게 비용이 2인 하수인을 둘 소환해 줍니다. 내 하수인들을 비용이 (1) 높은 하수인으로 변신시킵니다.",
     "nativeTextBuilder": 28,
-    "releasedAt": "2026-08-05",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1941,
-    "slug": "event",
-    "name": "이벤트",
-    "type": "expansion",
-    "englishName": "Event"
-  },
-  "setOrder": 9,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Desperate Bribe",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/JAIL_EVENT_102.png"
   }
 }

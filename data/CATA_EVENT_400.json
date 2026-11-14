@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Commissary Crook",
-  "card": {
+  "2026-06-17": {
     "id": "CATA_EVENT_400",
     "dbfId": 130005,
     "name": "보급상 크룩",
-    "text": "[x]<b>준비</b>, <b>전투의 함성:</b> 마나를 모두\n소모합니다. 소모한 만큼의\n비용을 가진 무작위\n하수인을 소환합니다.",
+    "text": "[x]<b>준비</b>, <b>전투의 함성:</b> 마나를 모두<br></br>소모합니다. 소모한 만큼의<br></br>비용을 가진 무작위<br></br>하수인을 소환합니다.",
     "type": "MINION",
     "cardClass": "DRUID",
     "classes": [],
@@ -85,27 +82,9 @@
     ],
     "nativeRawText": "[x]<b>준비</b>, <b>전투의 함성:</b> 마나를 모두\n소모합니다. 소모한 만큼의\n비용을 가진 무작위\n하수인을 소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": null,
-    "releaseStatus": "pending"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1941,
-    "slug": "event",
-    "name": "이벤트",
-    "type": "expansion",
-    "englishName": "Event"
-  },
-  "setOrder": 9,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Commissary Crook",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/CATA_EVENT_400.png"
   }
 }

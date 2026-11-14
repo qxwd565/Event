@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Deadly Bribe",
-  "card": {
+  "2026-06-17": {
     "id": "CATA_EVENT_402",
     "dbfId": 126097,
     "name": "치명적인 뇌물",
-    "text": "하수인을 처치하고 상대편에게 동전을 줍니다.\n<b>연계:</b> 나도 동전을 하나 얻습니다.",
+    "text": "하수인을 처치하고 상대편에게 동전을 줍니다.<br></br><b>연계:</b> 나도 동전을 하나 얻습니다.",
     "type": "SPELL",
     "cardClass": "ROGUE",
     "classes": [],
@@ -65,27 +62,9 @@
     ],
     "nativeRawText": "하수인을 처치하고 상대편에게 동전을 줍니다.\n<b>연계:</b> 나도 동전을 하나 얻습니다.",
     "nativeTextBuilder": 1,
-    "releasedAt": null,
-    "releaseStatus": "pending"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1941,
-    "slug": "event",
-    "name": "이벤트",
-    "type": "expansion",
-    "englishName": "Event"
-  },
-  "setOrder": 9,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Deadly Bribe",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/CATA_EVENT_402.png"
   }
 }

@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Runi, Temporal Guardian",
-  "card": {
+  "2025-12-11": {
     "id": "TIME_EVENT_998",
     "dbfId": 121676,
     "name": "시간의 수호자 루니",
@@ -85,27 +82,9 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 손에 있는 모든 하수인을 2턴 뒤의 미래로 보냅니다. 그 하수인들이 +5/+5를 가지고 돌아옵니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": null,
-    "releaseStatus": "pending"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1941,
-    "slug": "event",
-    "name": "이벤트",
-    "type": "expansion",
-    "englishName": "Event"
-  },
-  "setOrder": 9,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Runi, Temporal Guardian",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/TIME_EVENT_998.png"
   }
 }
