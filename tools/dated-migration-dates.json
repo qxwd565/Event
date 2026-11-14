@@ -1,0 +1,195 @@
+{
+  "cards": {
+    "BE_EVENT_100": {
+      "date": "2026-10-07",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24294373/patchnotes-zu-36-6",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "BE_EVENT_101": {
+      "date": "2026-10-07",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24294373/patchnotes-zu-36-6",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "BE_EVENT_102": {
+      "date": "2026-10-07",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24294373/patchnotes-zu-36-6",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "CATA_EVENT_000": {
+      "date": "2026-04-15",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24271853/35-2",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "CATA_EVENT_001": {
+      "date": "2026-04-15",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24271853/35-2",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "CATA_EVENT_002": {
+      "date": "2026-04-15",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24271853/35-2",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "CATA_EVENT_110": {
+      "date": "2026-05-06",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24266874",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "CATA_EVENT_110t2": {
+      "date": "2026-05-06",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24266874",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "CATA_EVENT_110t3": {
+      "date": "2026-05-06",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24266874",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "CATA_EVENT_110t4": {
+      "date": "2026-05-06",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24266874",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "CATA_EVENT_110t5": {
+      "date": "2026-05-06",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24266874",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "CATA_EVENT_110t6": {
+      "date": "2026-05-06",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24266874",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "CATA_EVENT_110t6t": {
+      "date": "2026-05-06",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24266874",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "CATA_EVENT_110t7": {
+      "date": "2026-05-06",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24266874",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "CATA_EVENT_400": {
+      "date": "2026-06-17",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24276665/35-6",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "CATA_EVENT_402": {
+      "date": "2026-06-17",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24276665/35-6",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "CATA_EVENT_401": {
+      "date": "2026-06-03",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24276661",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "EDR_950": {
+      "date": "2025-06-18",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24205006/32-4-patch-notes",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "JAIL_EVENT_100": {
+      "date": "2026-08-05",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24276665",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "JAIL_EVENT_101": {
+      "date": "2026-08-05",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24276665",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "JAIL_EVENT_102": {
+      "date": "2026-08-05",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24276665",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "TIME_EVENT_300": {
+      "date": "2026-02-25",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24242740/34-6-patch-notes",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "TIME_EVENT_301": {
+      "date": "2026-02-25",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24242740/34-6-patch-notes",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "TIME_EVENT_997": {
+      "date": "2025-12-04",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24244424",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "TIME_EVENT_998": {
+      "date": "2025-12-11",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24244424",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "TIME_EVENT_999": {
+      "date": "2026-02-11",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24242740/34-6-patch-notes",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "TIME_EVENT_999t": {
+      "date": "2026-02-11",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24242740/34-6-patch-notes",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "TLC_EVENT_400": {
+      "date": "2025-10-15",
+      "status": "verified",
+      "source": "https://hearthstone.wiki.gg/wiki/Storm_the_Gates",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    },
+    "TLC_EVENT_402": {
+      "date": "2025-08-06",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/ko-kr/news/24223019/33-2-patch-notes",
+      "basis": "first obtainable from the Korean-time in-game event, or a child first playable with its event parent"
+    }
+  },
+  "timezone": "Asia/Seoul",
+  "dateBasis": "actual event opened, not client insertion date",
+  "sources": {
+    "2026-10-07": "https://hearthstone.blizzard.com/ko-kr/news/24294373/patchnotes-zu-36-6",
+    "2026-04-15": "https://hearthstone.blizzard.com/ko-kr/news/24271853/35-2",
+    "2026-05-06": "https://hearthstone.blizzard.com/ko-kr/news/24266874",
+    "2026-06-17": "https://hearthstone.blizzard.com/ko-kr/news/24276665/35-6",
+    "2026-06-03": "https://hearthstone.blizzard.com/ko-kr/news/24276661",
+    "2025-06-18": "https://hearthstone.blizzard.com/ko-kr/news/24205006/32-4-patch-notes",
+    "2026-08-05": "https://hearthstone.blizzard.com/ko-kr/news/24276665",
+    "2026-02-25": "https://hearthstone.blizzard.com/ko-kr/news/24242740/34-6-patch-notes",
+    "2025-12-04": "https://hearthstone.blizzard.com/ko-kr/news/24244424",
+    "2025-12-11": "https://hearthstone.blizzard.com/ko-kr/news/24244424",
+    "2026-02-11": "https://hearthstone.blizzard.com/ko-kr/news/24242740/34-6-patch-notes",
+    "2025-10-15": "https://hearthstone.wiki.gg/wiki/Storm_the_Gates",
+    "2025-08-06": "https://hearthstone.blizzard.com/ko-kr/news/24223019/33-2-patch-notes"
+  }
+}
